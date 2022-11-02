@@ -1,1 +1,1 @@
-echo "This is my Jenkins fullcourse Tutorial and it's also wehook test via Github" 
+echo "This is my Jenkins fullcourse Tutorial via git webhook" 
