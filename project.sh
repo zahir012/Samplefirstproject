@@ -1,1 +1,1 @@
-echo "This is my Jenkins fullcourse Tutorial via git webhook" 
+echo "This is my Jenkins fullcourse Tutorial for wewb hook first comment" 
